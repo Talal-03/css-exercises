@@ -1,0 +1,17 @@
+.first{
+    background-color: pink;
+    font-weight: 500;
+    font-size: 20px;
+}
+#first{
+    color: blue;
+    font-size: 50px;
+}
+.second{
+    font-size: 35px;
+}
+#second{
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 30px;
+}
